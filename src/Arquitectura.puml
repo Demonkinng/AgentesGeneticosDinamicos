@@ -1,0 +1,8 @@
+@startuml
+'https://plantuml.com/use-case-diagram
+
+(1) --> (2) : inform
+ 'Agente 1 evoluciona la poblacion y envia los resultado al Agente 2'
+ 'Agente 2 recibe los resultados, los evalua y muestra la cantidad de'
+ 'iteracciones optimas'
+@enduml
